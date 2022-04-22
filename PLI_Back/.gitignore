@@ -1,0 +1,25 @@
+venv/
+
+*.pyc
+pycache/
+
+db.sqlite3
+
+.vscode/*
+
+# Unit test / coverage reports 
+htmlcov/ 
+.tox/ 
+.coverage 
+.coverage.* 
+.cache 
+.pytest_cache/ 
+nosetests.xml 
+coverage.xml 
+*.cover 
+.hypothesis/ 
+
+env_local.py
+
+**/.DS_Store
+**/.env
